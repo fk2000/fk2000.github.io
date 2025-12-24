@@ -40,8 +40,7 @@ disqus:
 google_analytics: G-WYZZ5D3QSW
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:
+url: "https://fk2000-github-io.netlify.app"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
